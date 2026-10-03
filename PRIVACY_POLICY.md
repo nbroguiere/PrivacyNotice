@@ -1,7 +1,7 @@
 # Privacy Policy for Hear the Band
 
-**Last updated:** September 19, 2026  
-**Effective date:** September 19, 2026
+**Last updated:** October 4, 2026
+**Effective date:** October 4, 2026
 
 Hear the Band is an Android ear-training app developed by Nicolas Broguiere. This policy explains what the app stores, when data may leave your device, and how you can manage it. We do not provide user accounts, advertising, or analytics.
 
@@ -15,7 +15,7 @@ Hear the Band is an Android ear-training app developed by Nicolas Broguiere. Thi
 | Purchases | Google Play handles the optional full-version purchase. The app sends Google Play a randomly generated, persistent installation identifier when starting a purchase. |
 | Backup | Android may back up eligible app data to your Google account or transfer it to another device, depending on your device settings. |
 | Sharing | You choose when to share an exercise or export a progress backup, and which app or storage location receives it. |
-| Permissions | The app requests internet and network-state access for Google Play Billing. It does not request microphone, location, or contacts access. |
+| Permissions | The app requests internet and network-state access for Google Play Billing, and optional microphone access for the Free Play tuner. It does not request location or contacts access. |
 
 ---
 
@@ -29,7 +29,7 @@ Hear the Band stores the following in app preferences and files on your device:
 
 We do not operate a server that receives your practice data.
 
-The app does not include an advertising or analytics SDK. It does not record microphone audio or access your contacts or location.
+The app does not include an advertising or analytics SDK or access your contacts or location. When you open Free Play with microphone permission, the tuner starts automatically and audio is processed on your device in memory to detect pitch. Audio is not saved or transmitted. A rolling up-to-eighty-second pitch history is kept in memory for the tuner display and is not included in backups. Capture stops when you leave Free Play or put the app in the background.
 
 ---
 
@@ -84,5 +84,3 @@ We may update this policy when app features or data practices change. The update
 **Email:** [Hearthebandsupport@gmail.com](mailto:Hearthebandsupport@gmail.com)
 
 **Application ID:** `com.heartheband.app`
-
-
